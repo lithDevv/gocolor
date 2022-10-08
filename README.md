@@ -1,4 +1,4 @@
-# H1 Go color is a simple golang library for adding color to terminal output.
+# Go color is a simple golang library for adding color to terminal output.
 This library Supports the Following:
 -> Normal colors
 -> Bold colors 
