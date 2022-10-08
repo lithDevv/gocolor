@@ -14,7 +14,7 @@ package main
 
 import (
   "fmt"
-  "gocolor"
+  "github.com/lithDevv/gocolor"
 )
 
 func main() {
