@@ -1,7 +1,7 @@
 package main 
 
 import (
-	"https://github.com/lithDevv/gocolor/"
+	"github.com/lithDevv/gocolor/"
 	"fmt"
 ) 
 
