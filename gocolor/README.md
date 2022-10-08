@@ -7,3 +7,5 @@ This library Supports the Following:
 -> Bold High Intensity Colors
 
 for a tutorial on how to use this library read "examples/examples.go"
+
+commands -> go get https://github.com/lithDevv/gocolor/
