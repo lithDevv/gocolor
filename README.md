@@ -6,7 +6,7 @@ This package includes:
 - High Intensity Colors 
 - Bold High Intensity Colors
 
-```commands -> go get github.com/lithDevv/gocolor/```
+```- commands -> go get github.com/lithDevv/gocolor/```
 
 usage : 
 ```golang
