@@ -1,14 +1,19 @@
 # Go color is a simple golang package for adding color to terminal output.
+```
 This package includes:
 - Normal colors
 - Bold colors 
 - Underlined colors
 - High Intensity Colors 
 - Bold High Intensity Colors
+```
 
-```command -> go get github.com/lithDevv/gocolor/```
+# Commands
+```
+command -> go get github.com/lithDevv/gocolor/
+```
 
-usage : 
+# Usage
 ```golang
 package main
 
